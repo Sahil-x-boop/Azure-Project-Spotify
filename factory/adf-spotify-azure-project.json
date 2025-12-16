@@ -1,0 +1,9 @@
+{
+	"name": "adf-spotify-azure-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ba8d24a-e633-4fbc-b0da-f001a683c29b",
+		"tenantId": "0c185c59-4c74-47ea-beb2-db3aff5d14e0"
+	}
+}
